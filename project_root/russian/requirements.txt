@@ -1,0 +1,7 @@
+whisper
+torch
+ffmpeg-python
+pysubs2
+moviepy
+tqdm
+textgrid
