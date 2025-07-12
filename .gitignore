@@ -1,0 +1,50 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyCharm
+.idea/
+
+# Временные файлы
+*.tmp
+*.temp
+*.log
+
+# Медиа файлы
+*.mp4
+*.avi
+*.mkv
+*.wav
+*.mp3
+*.srt
+*.ass
+
+# Папки проекта
+top_clips/
+bottom_clips/
+audio/
+subtitled/
+stacked/ 
